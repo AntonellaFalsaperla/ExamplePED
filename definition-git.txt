@@ -1,1 +1,1 @@
-git è un sistema di controllo di versione distribuito
+Git è un VCS
