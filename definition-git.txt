@@ -1,1 +1,1 @@
-Git è un VCS
+Git è un VCS, ma di tipo distribuito
